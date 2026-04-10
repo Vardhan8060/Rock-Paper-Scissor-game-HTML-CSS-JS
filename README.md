@@ -36,7 +36,7 @@ I created this project by following tutorials and learning concepts from:
 - Using localStorage
 - Structuring a simple project
 
-* Acknowledgement
+* Acknowledgement :-
 
 Thanks to:
 
