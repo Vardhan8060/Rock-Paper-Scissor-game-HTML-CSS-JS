@@ -8,8 +8,8 @@ This project is a beginner-friendly game where a user can play Rock, Paper, Scis
 
 I created this project by following tutorials and learning concepts from:
 
-- SuperSimpleDev
-- Simon Boa
+- SuperSimpleDev/Simon Boa
+
 
 Features
 
@@ -38,8 +38,7 @@ Acknowledgement
 
 Thanks to:
 
-- SuperSimpleDev
-- Simon Boa
+- SuperSimpleDev/Simon Boa
   for helping me understand JavaScript concepts through their tutorials.
 
 Disclaimer
