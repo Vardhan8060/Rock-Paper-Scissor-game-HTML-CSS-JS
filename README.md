@@ -1,34 +1,32 @@
- Rock Paper Scissors Game :-
+Rock Paper Scissors Game
 
 A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
+About the Project
 
-* About the Project
 This project is a beginner-friendly game where a user can play Rock, Paper, Scissors against the computer.
 
-
 I created this project by following tutorials and learning concepts from:
-- SuperSimpleDev/Simon Boa
 
+- SuperSimpleDev
+- Simon Boa
 
-* Features
+Features
 
--  Interactive UI
--  Computer generates random moves
--  Game logic implemented using JavaScript
--  Score tracking (Win / Lose / Tie)
--  Local storage used to save score
+- Interactive UI
+- Computer generates random moves
+- Game logic implemented using JavaScript
+- Score tracking (Win / Lose / Tie)
+- Local storage used to save score
 
+How to Play
 
-* How to Play
+- Click on Rock, Paper, or Scissors
+- Computer will choose its move
+- Result will be displayed (Win / Lose / Tie)
+- Score updates automatically
 
-1. Click on Rock, Paper, or Scissors
-2. Computer will choose its move
-3. Result will be displayed (Win / Lose / Tie)
-4. Score updates automatically
-
-
-* What I Learned
+What I Learned
 
 - DOM manipulation
 - Event handling
@@ -36,18 +34,17 @@ I created this project by following tutorials and learning concepts from:
 - Using localStorage
 - Structuring a simple project
 
-* Acknowledgement :-
+Acknowledgement
 
 Thanks to:
 
-- SuperSimpleDev/Simon Bao
-for helping me understand JavaScript concepts through their tutorials.
+- SuperSimpleDev
+- Simon Boa
+  for helping me understand JavaScript concepts through their tutorials.
 
+Disclaimer
 
-* Disclaimer :-
-
-This project is not originally created by me.
-I built it by following tutorials from SuperSimpleDev and Simon Boa as part of my learning.
-
-I'm using this project only for educational purposes to practice and improve my JavaScript skills.
-Full credit goes to the original creators for their guidance and teaching.
+- This project is not originally created by me
+- I built it by following tutorials from SuperSimpleDev and Simon Boa as part of my learning
+- This project is for educational purposes only
+- Full credit goes to the original creators for their guidance and teaching
