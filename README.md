@@ -44,6 +44,6 @@ Thanks to:
 Disclaimer
 
 - This project is not originally created by me
-- I built it by following tutorials from SuperSimpleDev and Simon Boa as part of my learning
+- I built it by following tutorials from SuperSimpleDev/Simon Boa as part of my learning
 - This project is for educational purposes only
 - Full credit goes to the original creators for their guidance and teaching
