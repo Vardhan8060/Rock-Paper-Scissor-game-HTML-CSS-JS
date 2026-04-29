@@ -27,6 +27,8 @@
             border-color: white;
             background-color: black;
             cursor: pointer;
+            border-radius: 50%;
+            overflow: hidden;
         }
 
        img {
@@ -75,11 +77,11 @@
                 text-align: center;
             }
 
-            button {
+            .rock, .paper, .scissors {
                 width: 80px;
                 height: 80px;
             }
-            button:active{
+            .rock, .paper, .scissors:active{
                 outline: none;
                 overflow: hidden;
             }
