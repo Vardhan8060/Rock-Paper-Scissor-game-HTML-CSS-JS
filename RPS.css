@@ -79,6 +79,10 @@
                 width: 80px;
                 height: 80px;
             }
+            button:active{
+                outline: none;
+                overflow: hidden;
+            }
 
             img {
                 width: 40px;
