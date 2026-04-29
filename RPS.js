@@ -11,8 +11,8 @@ function playGame(playerMove) {
   let result = '';
 
 
-  if (playerMove === 'Rock') {
-    if (computerMove === 'Rock') {
+  if (playerMove === 'rock') {
+    if (computerMove === 'rock') {
       result = 'Tie.';
     } else if (computerMove === 'paper') {
       result = 'Lose.';
@@ -22,7 +22,7 @@ function playGame(playerMove) {
  
 
   } else if (playerMove === 'paper') {
-    if (computerMove === 'Rock') {
+    if (computerMove === 'rock') {
       result = 'Win.';
     } else if (computerMove === 'paper') {
       result = 'Tie.';
@@ -31,7 +31,7 @@ function playGame(playerMove) {
     }
 
   } else  if (playerMove === 'scissors') {
-    if (computerMove === 'Rock') {
+    if (computerMove === 'rock') {
       result = 'Lose.';
     } else if (computerMove === 'paper') {
       result = 'Win.';
@@ -77,7 +77,7 @@ function pickcomputerMove() {
   let computerMove = '';
 
   if (mathRandom >= 0 && mathRandom <= 1 / 3) {
-    computerMove = 'Rock';
+    computerMove = 'rock';
   } else if (mathRandom > 1 / 3 && mathRandom <= 2 / 3) {
     computerMove = 'paper';
   } else {
