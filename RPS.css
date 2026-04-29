@@ -80,13 +80,10 @@
             .rock, .paper, .scissors {
                 width: 80px;
                 height: 80px;
-<<<<<<< HEAD
             }
             .rock, .paper, .scissors:active{
                 outline: none;
-=======
                 border-radius: 50%;
->>>>>>> 06ac198e501b18dd5728c6cc59daa4c2807c8179
                 overflow: hidden;
             }
 
