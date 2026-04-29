@@ -69,3 +69,30 @@
             cursor: pointer;
         }
 
+        @media (max-width: 600px) {
+            .title{
+                font-size: 28px;
+                text-align: center;
+            }
+
+            button {
+                width: 80px;
+                height: 80px;
+            }
+
+            img {
+                width: 40px;
+            }
+
+            .js-score {
+                font-size: 14px;
+                text-align: center;
+            }
+
+            body{
+                text-align: center;
+                padding: 20px;
+            }
+        }
+
+
